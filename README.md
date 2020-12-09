@@ -1,6 +1,6 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alvesvaren&show_icons=true&count_private=true&theme=nord)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alvesvaren&show_icons=true&count_private=true&theme=dark)
 <br/>
-![Language usage](https://github-readme-stats.vercel.app/api/top-langs/?username=alvesvaren&layout=compact&langs_count=8&card_width=445&theme=nord)
+![Language usage](https://github-readme-stats.vercel.app/api/top-langs/?username=alvesvaren&layout=compact&langs_count=8&card_width=445&theme=dark)
 
 **Website:** [alve.dev](https://alve.dev/)
 <br/>
