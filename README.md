@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alvesvaren&show_icons=true&count_private=true&theme=dark&bg_color=161b22)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alvesvaren&show_icons=true&count_private=true&theme=dark&bg_color=161b22&&show_border=false)
 <br/>
 ![Language usage](https://github-readme-stats.vercel.app/api/top-langs/?username=alvesvaren&layout=compact&langs_count=8&card_width=445&theme=dark&bg_color=161b22)
 
