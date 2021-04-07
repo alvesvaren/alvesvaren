@@ -5,3 +5,5 @@
 **Website:** [alve.dev](https://alve.dev/)
 <br/>
 **Discord:** [Alve#0001](https://discordapp.com/channels/@me/265918045069770753/)
+<br/>
+**PGP fingerprint:** `975D51E87E37C5702E9C32D9F8D0AD4030FAC97D`
