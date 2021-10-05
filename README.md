@@ -2,7 +2,7 @@
 <br/>
 ![Language usage](https://github-readme-stats.vercel.app/api/top-langs/?username=alvesvaren&layout=compact&langs_count=8&card_width=445&theme=dark&bg_color=22272e&hide_border=true)
 
-**Website:** [alve.dev](https://alve.dev/)
+**Website:** [svaren.dev](https://svaren.dev/)
 <br/>
 **Discord:** Alve#0001
 <br/>
