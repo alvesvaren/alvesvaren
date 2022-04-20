@@ -7,3 +7,6 @@
 **Discord:** Alve#0001
 <br/>
 **PGP fingerprint:** `975D51E87E37C5702E9C32D9F8D0AD4030FAC97D`
+
+**Sponsors:**
+[Ismail 424](https://github.com/ismail424) 1x$1
