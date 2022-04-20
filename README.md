@@ -8,5 +8,5 @@
 <br/>
 **PGP fingerprint:** `975D51E87E37C5702E9C32D9F8D0AD4030FAC97D`
 
-**Sponsors:**
+## **Sponsors:**
 [Ismail Sacic](https://github.com/ismail424) 1x$1
