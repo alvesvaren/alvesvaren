@@ -4,7 +4,7 @@
 
 **Website:** [svaren.dev](https://svaren.dev/)
 <br/>
-**Discord:** Alve#0001
+**Discord:** @alve_
 <br/>
 **PGP fingerprint:** `975D51E87E37C5702E9C32D9F8D0AD4030FAC97D`
 
